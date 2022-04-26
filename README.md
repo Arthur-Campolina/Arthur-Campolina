@@ -1,4 +1,3 @@
-<p align="center">
 Hi 👋 My name is Arthur
 =======================
 
@@ -10,10 +9,9 @@ I'm an enthusiastic Engineer in the technology area, in professional transition.
 * 🌍  I'm based in Belo Horizonte - MG
 * ✉️  You can contact me at [arthurcampolina@hotmail.com](mailto:arthurcampolina@hotmail.com)
 * 🧠  I'm learning React JS and Spring Boot
-</p>
 
 <p align="center">
-### Skills
+Skills
 </p>
 
 <p align="center">
@@ -30,13 +28,13 @@ I'm an enthusiastic Engineer in the technology area, in professional transition.
 </p>
 
 <p align="center">
-### Socials
+Socials
 </p>
 
 <p align="center"> <a href="https://www.github.com/arthur-campolina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arthur-campolina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <p align="center">
-### My GitHub Stats
+My GitHub Stats
 </p>
 
 <p align="center">
