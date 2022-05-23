@@ -1,10 +1,10 @@
 Hi 👋 My name is Arthur
 =======================
 
-Web Developer Junior
+Web Developer
 --------------------
 
-I'm an enthusiastic Engineer in the technology area, in professional transition. Currently working as a Junior Web Developer and always looking for an opportunity to learn and apply my knowledge/skills.
+Currently working as a Web Developer at Ponto Ini Sistemas and always looking for an opportunity to learn and apply my knowledge/skills.
 
 * 🌍  I'm based in Belo Horizonte - MG
 * ✉️  You can contact me at [arthurcampolina@hotmail.com](mailto:arthurcampolina@hotmail.com)
