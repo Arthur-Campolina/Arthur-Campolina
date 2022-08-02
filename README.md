@@ -4,7 +4,7 @@ Hi 👋 My name is Arthur
 Web Developer
 --------------------
 
-Currently working as a Web Developer at Ponto Ini Sistemas and always looking for an opportunity to learn and apply my knowledge/skills.
+Currently working as a Web Developer/Systems Analyst at <a href="https://lenarge.com.br/" target="_blank" rel="noreferrer">Lenarge Transportes e Serviços</a> and always looking for an opportunity to learn and apply my knowledge/skills.
 
 * 🌍  I'm based in Belo Horizonte - MG
 * ✉️  You can contact me at [arthurcampolina@hotmail.com](mailto:arthurcampolina@hotmail.com)
@@ -15,7 +15,7 @@ Skills
 </p>
 
 <p align="center">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
 <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
