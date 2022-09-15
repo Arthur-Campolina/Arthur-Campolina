@@ -8,7 +8,7 @@ Currently working as a Web Developer/Systems Analyst at <a href="https://lenarge
 
 * 🌍  I'm based in Belo Horizonte - MG
 * ✉️  You can contact me at [arthurcampolina@hotmail.com](mailto:arthurcampolina@hotmail.com)
-* 🧠  I'm learning React JS and Spring Boot
+* 🧠  I'm currently learning more about Node.JS and Typescript
 
 <p align="center">
 Skills
