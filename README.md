@@ -4,11 +4,11 @@ Hi 👋 My name is Arthur
 Web Developer
 --------------------
 
-Currently working as a Web Developer at <a href="https://lenarge.com.br/" target="_blank" rel="noreferrer">Lenarge Transportes e Serviços</a> and always looking for an opportunity to learn and apply my knowledge/skills.
+Currently working as a Full-Stack Developer at <a href="https://inter.co/" target="_blank" rel="noreferrer">Inter</a> and always looking for an opportunity to learn and apply my knowledge/skills.
 
 * 🌍  I'm based in Belo Horizonte - MG
 * ✉️  You can contact me at [arthurcampolina@hotmail.com](mailto:arthurcampolina@hotmail.com)
-* 🧠  I'm currently learning more about React, Node and TypeScript
+* 🧠  I'm currently learning more about Microfrontends with React and microservices with Node and Java
 
 <p align="center">
 Skills
