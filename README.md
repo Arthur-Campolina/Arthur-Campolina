@@ -83,4 +83,4 @@ I'm a Software Engineer working at **[Nubank](https://nubank.com.br)** — one o
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A05BE&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A05BE&height=80&section=footer" />
