@@ -19,7 +19,7 @@
 I'm a Software Engineer working at **[Nubank](https://nubank.com.br)** — one of the world's largest fintechs — crafting scalable financial products that reach millions of people across Latin America. I'm based in **Belo Horizonte, MG** and passionate about clean architecture, great DX, and systems that just *work*.
 
 - 🏦 Currently diving deep into **Nubank's internal tech stack** (Clojure, Datomic, Kafka & distributed systems)
-- 🏗️ Building with **Microfrontends**, **Microservices**, and event-driven architectures
+- 🏗️ Building with **Microfrontends**, **Microservices**, and **event-driven architectures**
 - ☁️ Shipping to production on **AWS** every day
 - 📬 Reach me: [arthurcampolina@hotmail.com](mailto:arthurcampolina@hotmail.com)
 
